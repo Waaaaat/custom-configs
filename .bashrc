@@ -175,3 +175,10 @@ function host_information()
     echo -e "\n${BRed}Open connections :$NC "; netstat -pan --inet;
     echo
 }
+
+
+##############################################################################
+#                         System Variables                                   #
+##############################################################################
+# Proton
+export STEAM_COMPAT_DATA_PATH=$HOME/.steam/steam/compatibilitytools.d/

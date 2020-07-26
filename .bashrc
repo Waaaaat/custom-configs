@@ -1,5 +1,4 @@
 #
-# The Personal Bashrc file of Janic Voser
 # Its just an Bashrc file modify it the Way you want.
 #
 # Version 0.1

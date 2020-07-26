@@ -181,4 +181,4 @@ function host_information()
 #                         System Variables                                   #
 ##############################################################################
 # Proton
-export STEAM_COMPAT_DATA_PATH=$HOME/.steam/steam/compatibilitytools.d/
+export STEAM_COMPAT_DATA_PATH=$HOME/proton
